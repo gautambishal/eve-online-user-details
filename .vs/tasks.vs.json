@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-eve-o-preview",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
